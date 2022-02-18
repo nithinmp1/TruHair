@@ -1096,3 +1096,165 @@ INFO - 2022-02-18 17:27:36 --> File loaded: C:\xampp\htdocs\hotelAdmin\applicati
 INFO - 2022-02-18 17:27:36 --> File loaded: C:\xampp\htdocs\hotelAdmin\application\views\templates/footer.php
 INFO - 2022-02-18 17:27:36 --> Final output sent to browser
 DEBUG - 2022-02-18 17:27:36 --> Total execution time: 0.0509
+INFO - 2022-02-18 17:43:28 --> Config Class Initialized
+INFO - 2022-02-18 17:43:28 --> Hooks Class Initialized
+DEBUG - 2022-02-18 17:43:28 --> UTF-8 Support Enabled
+INFO - 2022-02-18 17:43:28 --> Utf8 Class Initialized
+INFO - 2022-02-18 17:43:28 --> URI Class Initialized
+DEBUG - 2022-02-18 17:43:28 --> No URI present. Default controller set.
+INFO - 2022-02-18 17:43:28 --> Router Class Initialized
+INFO - 2022-02-18 17:43:28 --> Output Class Initialized
+INFO - 2022-02-18 17:43:28 --> Security Class Initialized
+DEBUG - 2022-02-18 17:43:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-18 17:43:28 --> Input Class Initialized
+INFO - 2022-02-18 17:43:28 --> Language Class Initialized
+INFO - 2022-02-18 17:43:28 --> Loader Class Initialized
+INFO - 2022-02-18 17:43:28 --> Helper loaded: url_helper
+INFO - 2022-02-18 17:43:28 --> Helper loaded: file_helper
+INFO - 2022-02-18 17:43:28 --> Helper loaded: form_helper
+INFO - 2022-02-18 17:43:28 --> Database Driver Class Initialized
+INFO - 2022-02-18 17:43:28 --> Controller Class Initialized
+DEBUG - 2022-02-18 17:43:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2022-02-18 17:43:28 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-18 17:43:28 --> Config Class Initialized
+INFO - 2022-02-18 17:43:28 --> Hooks Class Initialized
+DEBUG - 2022-02-18 17:43:28 --> UTF-8 Support Enabled
+INFO - 2022-02-18 17:43:28 --> Utf8 Class Initialized
+INFO - 2022-02-18 17:43:28 --> URI Class Initialized
+INFO - 2022-02-18 17:43:28 --> Router Class Initialized
+INFO - 2022-02-18 17:43:28 --> Output Class Initialized
+INFO - 2022-02-18 17:43:28 --> Security Class Initialized
+DEBUG - 2022-02-18 17:43:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-18 17:43:28 --> Input Class Initialized
+INFO - 2022-02-18 17:43:28 --> Language Class Initialized
+INFO - 2022-02-18 17:43:28 --> Loader Class Initialized
+INFO - 2022-02-18 17:43:28 --> Helper loaded: url_helper
+INFO - 2022-02-18 17:43:28 --> Helper loaded: file_helper
+INFO - 2022-02-18 17:43:28 --> Helper loaded: form_helper
+INFO - 2022-02-18 17:43:28 --> Database Driver Class Initialized
+INFO - 2022-02-18 17:43:28 --> Controller Class Initialized
+INFO - 2022-02-18 17:43:28 --> Model "Model_Accounting" initialized
+DEBUG - 2022-02-18 17:43:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2022-02-18 17:43:28 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-18 17:43:28 --> File loaded: C:\xampp\htdocs\kenytAdmin\application\views\templates/header.php
+INFO - 2022-02-18 17:43:28 --> File loaded: C:\xampp\htdocs\kenytAdmin\application\views\dashboard.php
+INFO - 2022-02-18 17:43:28 --> File loaded: C:\xampp\htdocs\kenytAdmin\application\views\templates/footer.php
+INFO - 2022-02-18 17:43:28 --> Final output sent to browser
+DEBUG - 2022-02-18 17:43:28 --> Total execution time: 0.0584
+INFO - 2022-02-18 17:43:33 --> Config Class Initialized
+INFO - 2022-02-18 17:43:33 --> Hooks Class Initialized
+DEBUG - 2022-02-18 17:43:33 --> UTF-8 Support Enabled
+INFO - 2022-02-18 17:43:33 --> Utf8 Class Initialized
+INFO - 2022-02-18 17:43:33 --> URI Class Initialized
+INFO - 2022-02-18 17:43:33 --> Router Class Initialized
+INFO - 2022-02-18 17:43:33 --> Output Class Initialized
+INFO - 2022-02-18 17:43:33 --> Security Class Initialized
+DEBUG - 2022-02-18 17:43:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-18 17:43:33 --> Input Class Initialized
+INFO - 2022-02-18 17:43:33 --> Language Class Initialized
+INFO - 2022-02-18 17:43:33 --> Loader Class Initialized
+INFO - 2022-02-18 17:43:33 --> Helper loaded: url_helper
+INFO - 2022-02-18 17:43:33 --> Helper loaded: file_helper
+INFO - 2022-02-18 17:43:33 --> Helper loaded: form_helper
+INFO - 2022-02-18 17:43:33 --> Database Driver Class Initialized
+INFO - 2022-02-18 17:43:33 --> Controller Class Initialized
+INFO - 2022-02-18 17:43:33 --> Model "Model_Users" initialized
+INFO - 2022-02-18 17:43:33 --> Form Validation Class Initialized
+DEBUG - 2022-02-18 17:43:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2022-02-18 17:43:33 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-18 17:43:33 --> Config Class Initialized
+INFO - 2022-02-18 17:43:33 --> Hooks Class Initialized
+DEBUG - 2022-02-18 17:43:33 --> UTF-8 Support Enabled
+INFO - 2022-02-18 17:43:33 --> Utf8 Class Initialized
+INFO - 2022-02-18 17:43:33 --> URI Class Initialized
+INFO - 2022-02-18 17:43:33 --> Router Class Initialized
+INFO - 2022-02-18 17:43:33 --> Output Class Initialized
+INFO - 2022-02-18 17:43:33 --> Security Class Initialized
+DEBUG - 2022-02-18 17:43:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-18 17:43:33 --> Input Class Initialized
+INFO - 2022-02-18 17:43:33 --> Language Class Initialized
+INFO - 2022-02-18 17:43:33 --> Loader Class Initialized
+INFO - 2022-02-18 17:43:33 --> Helper loaded: url_helper
+INFO - 2022-02-18 17:43:33 --> Helper loaded: file_helper
+INFO - 2022-02-18 17:43:33 --> Helper loaded: form_helper
+INFO - 2022-02-18 17:43:33 --> Database Driver Class Initialized
+INFO - 2022-02-18 17:43:33 --> Controller Class Initialized
+DEBUG - 2022-02-18 17:43:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2022-02-18 17:43:33 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-18 17:43:33 --> File loaded: C:\xampp\htdocs\kenytAdmin\application\views\login.php
+INFO - 2022-02-18 17:43:33 --> Final output sent to browser
+DEBUG - 2022-02-18 17:43:33 --> Total execution time: 0.0476
+INFO - 2022-02-18 17:43:42 --> Config Class Initialized
+INFO - 2022-02-18 17:43:42 --> Hooks Class Initialized
+DEBUG - 2022-02-18 17:43:42 --> UTF-8 Support Enabled
+INFO - 2022-02-18 17:43:42 --> Utf8 Class Initialized
+INFO - 2022-02-18 17:43:42 --> URI Class Initialized
+INFO - 2022-02-18 17:43:42 --> Router Class Initialized
+INFO - 2022-02-18 17:43:42 --> Output Class Initialized
+INFO - 2022-02-18 17:43:42 --> Security Class Initialized
+DEBUG - 2022-02-18 17:43:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-18 17:43:42 --> Input Class Initialized
+INFO - 2022-02-18 17:43:42 --> Language Class Initialized
+INFO - 2022-02-18 17:43:42 --> Loader Class Initialized
+INFO - 2022-02-18 17:43:42 --> Helper loaded: url_helper
+INFO - 2022-02-18 17:43:42 --> Helper loaded: file_helper
+INFO - 2022-02-18 17:43:42 --> Helper loaded: form_helper
+INFO - 2022-02-18 17:43:42 --> Database Driver Class Initialized
+INFO - 2022-02-18 17:43:42 --> Controller Class Initialized
+INFO - 2022-02-18 17:43:42 --> Model "Model_Users" initialized
+INFO - 2022-02-18 17:43:42 --> Form Validation Class Initialized
+INFO - 2022-02-18 17:43:42 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2022-02-18 17:43:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2022-02-18 17:43:42 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-18 17:43:42 --> Final output sent to browser
+DEBUG - 2022-02-18 17:43:42 --> Total execution time: 0.0562
+INFO - 2022-02-18 17:43:42 --> Config Class Initialized
+INFO - 2022-02-18 17:43:42 --> Hooks Class Initialized
+DEBUG - 2022-02-18 17:43:42 --> UTF-8 Support Enabled
+INFO - 2022-02-18 17:43:42 --> Utf8 Class Initialized
+INFO - 2022-02-18 17:43:42 --> URI Class Initialized
+INFO - 2022-02-18 17:43:42 --> Router Class Initialized
+INFO - 2022-02-18 17:43:42 --> Output Class Initialized
+INFO - 2022-02-18 17:43:42 --> Security Class Initialized
+DEBUG - 2022-02-18 17:43:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-18 17:43:42 --> Input Class Initialized
+INFO - 2022-02-18 17:43:42 --> Language Class Initialized
+INFO - 2022-02-18 17:43:42 --> Loader Class Initialized
+INFO - 2022-02-18 17:43:42 --> Helper loaded: url_helper
+INFO - 2022-02-18 17:43:42 --> Helper loaded: file_helper
+INFO - 2022-02-18 17:43:42 --> Helper loaded: form_helper
+INFO - 2022-02-18 17:43:42 --> Database Driver Class Initialized
+INFO - 2022-02-18 17:43:42 --> Controller Class Initialized
+INFO - 2022-02-18 17:43:42 --> Model "Model_Accounting" initialized
+DEBUG - 2022-02-18 17:43:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2022-02-18 17:43:42 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-18 17:43:42 --> File loaded: C:\xampp\htdocs\kenytAdmin\application\views\templates/header.php
+INFO - 2022-02-18 17:43:42 --> File loaded: C:\xampp\htdocs\kenytAdmin\application\views\dashboard.php
+INFO - 2022-02-18 17:43:42 --> File loaded: C:\xampp\htdocs\kenytAdmin\application\views\templates/footer.php
+INFO - 2022-02-18 17:43:42 --> Final output sent to browser
+DEBUG - 2022-02-18 17:43:42 --> Total execution time: 0.0505
+INFO - 2022-02-18 17:44:20 --> Config Class Initialized
+INFO - 2022-02-18 17:44:20 --> Hooks Class Initialized
+DEBUG - 2022-02-18 17:44:20 --> UTF-8 Support Enabled
+INFO - 2022-02-18 17:44:20 --> Utf8 Class Initialized
+INFO - 2022-02-18 17:44:20 --> URI Class Initialized
+INFO - 2022-02-18 17:44:20 --> Router Class Initialized
+INFO - 2022-02-18 17:44:20 --> Output Class Initialized
+INFO - 2022-02-18 17:44:20 --> Security Class Initialized
+DEBUG - 2022-02-18 17:44:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-18 17:44:20 --> Input Class Initialized
+INFO - 2022-02-18 17:44:20 --> Language Class Initialized
+INFO - 2022-02-18 17:44:20 --> Loader Class Initialized
+INFO - 2022-02-18 17:44:20 --> Helper loaded: url_helper
+INFO - 2022-02-18 17:44:20 --> Helper loaded: file_helper
+INFO - 2022-02-18 17:44:20 --> Helper loaded: form_helper
+INFO - 2022-02-18 17:44:20 --> Database Driver Class Initialized
+INFO - 2022-02-18 17:44:20 --> Controller Class Initialized
+INFO - 2022-02-18 17:44:20 --> Model "Model_Accounting" initialized
+DEBUG - 2022-02-18 17:44:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2022-02-18 17:44:20 --> Session: Class initialized using 'files' driver.
+INFO - 2022-02-18 17:44:20 --> File loaded: C:\xampp\htdocs\kenytAdmin\application\views\templates/header.php
+INFO - 2022-02-18 17:44:20 --> File loaded: C:\xampp\htdocs\kenytAdmin\application\views\dashboard.php
+INFO - 2022-02-18 17:44:20 --> File loaded: C:\xampp\htdocs\kenytAdmin\application\views\templates/footer.php
+INFO - 2022-02-18 17:44:20 --> Final output sent to browser
+DEBUG - 2022-02-18 17:44:20 --> Total execution time: 0.0529
